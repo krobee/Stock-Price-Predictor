@@ -6,4 +6,5 @@ A system that can predict stock price based on Twitter data
 ## Details
 * used HDFS to store dataset
 * utilized Spark to read and pre-process the dataset
+* applied Stanford NLP to do sentiment analysis on twitter data
 * applied Spark-ML to train a linear regression model  
